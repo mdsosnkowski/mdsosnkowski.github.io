@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project 1: AWS Peer Connection between two VPCs.
+title: Project 1 AWS Peer Connection between two VPCs.
 thumbnail: proj1/thumbnail.png
 blurb: Build of two VPCs conneced with a peer connection.
 ---
