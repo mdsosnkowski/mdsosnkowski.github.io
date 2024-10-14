@@ -1,2 +1,2 @@
 # mdsosnkowski.github.io
-Mike Sosnkowski GitHiub Page
+Mike Sosnkowski GitHiub page available [here](mdsosnkowski.github.io)
