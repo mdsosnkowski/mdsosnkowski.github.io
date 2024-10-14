@@ -11,3 +11,6 @@ header_pages:
  - projects.md
 collections:
  - projects
+collections:
+ projects:
+  output: true
