@@ -9,8 +9,10 @@ author:
 header_pages:
  - index.md
  - projects.md
+ 
 collections:
  - projects
+ 
 collections:
  projects:
   output: true
