@@ -1,0 +1,12 @@
+remote_theme: jekyll/minima
+minima: 
+ skin: classic
+include:
+ - README.md
+author:
+ name: Mike Sosnkowski
+ email: mdsosnkowski@gmail.com
+header_pages:
+ - index.md
+collections:
+ - projects
